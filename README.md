@@ -81,8 +81,8 @@ Model performance was judged using two metrics: accuracy and the weighted F1-sco
 
 | Model | Accuracy | F1-Score (Weighted) |
 | :--- | :---: | :---: |
-| Random Forest | \~71.4% | \~70.2% |
-| 1D CNN | \~80.5% | \~80.1% |
+| Random Forest | \~86.9% | \~86.6% |
+| 1D CNN | \~57.2% | \~57.9% |
 
 (Note: Your results may vary slightly due to the random nature of model training.)
 
